@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callumrawlinson" alt="callumrawlinson" /></a> </p>
 
-- 🔭 I’m currently working on [Delta Panel](Https://link.com)
+- 🔭 I’m currently working on [Delta Panel](Https://delta-mc.app)
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Pocketmine Plugins](Https://link.com)
+- 👯 I’m looking to collaborate on [Pocketmine Plugins](Https://www.github.com/callumrawlinson)
 
 - 🤝 I’m looking for help with [NukkitX Plugins](Https://link.com)
 
