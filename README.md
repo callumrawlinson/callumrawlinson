@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**callumrawlinson/callumrawlinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Delta-Panel
+- 🌱 I’m currently working for Myself @PrimeHosting
+- 👯 I’m looking to collaborate on Pocketmine Plugins
+- 🤔 I’m looking for help with Learning NukkitX plugins
+- 💬 Ask me about making plugins
+- 📫 How to reach me: Email me or make an issue
+
+
+
